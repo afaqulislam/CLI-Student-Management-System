@@ -1,5 +1,5 @@
 {
-  "name": "cli-student-management-system",
+  "name": "aui-cli-student-management-system",
   "version": "1.0.0",
   "description": "This Is A CLI Based Student Management System Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-student-management-system'",
   "main": "main.js",
